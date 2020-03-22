@@ -1,2 +1,0 @@
-# GoTHW
-GoTHW
